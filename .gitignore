@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
 
-# Build output
+# Build outpt
 build/
 dist/
 
@@ -39,3 +39,5 @@ coverage/
 # Misc
 *.tgz
 *.zip
+
+moje.html
